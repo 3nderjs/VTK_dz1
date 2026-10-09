@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'bodoniregular';
+    src: url('https://cdn.jsdelivr.net/fontsource/fonts/libre-bodoni@latest/latin-400-normal.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/fontsource/fonts/libre-bodoni@latest/latin-400-normal.woff') format('woff');
+}
+

@@ -1,0 +1,17 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #081426; color: #e7eef8; line-height: 1.6; }
+header { background: #102747; padding: 20px; text-align: center; border-bottom: 3px solid #50b6d8; }
+header h1 { margin: 0 0 12px; color: #ffffff; }
+nav a { display: inline-block; color: #bdefff; margin: 4px 10px; text-decoration: none; }
+nav a:hover { text-decoration: underline; color: white; }
+main { max-width: 900px; margin: 25px auto; padding: 0 20px; }
+h2 { color: #75d5f2; }
+.intro, .fact { background: #10213a; border: 1px solid #254d72; border-radius: 10px; padding: 18px; margin: 18px 0; }
+.planet-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 18px; }
+.planet-list a { background: #10213a; border: 1px solid #33749d; border-radius: 10px; padding: 16px; color: #e7eef8; text-align: center; text-decoration: none; }
+.planet-list a:hover { background: #173557; }
+.planet-list img { width: 140px; height: 140px; display: block; margin: 0 auto 10px; }
+.planet-image { width: 260px; max-width: 80%; display: block; margin: 20px auto; }
+table { width: 100%; border-collapse: collapse; background: #10213a; }
+th, td { border: 1px solid #3b6685; padding: 10px; text-align: left; }
+th { color: #75d5f2; }
+footer { text-align: center; color: #9eb0c5; padding: 25px; }
